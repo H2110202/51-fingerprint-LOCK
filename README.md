@@ -1,4 +1,6 @@
 # 51-fingerprint-LOCK
 
+<img width="880" height="1145" alt="image" src="https://github.com/user-attachments/assets/3e870dc8-f22f-4217-950d-eae0e59c0409" />
+
 #大一的时候自学51单片机，碰巧作为宿舍长有一个问题解决：舍友们老是忘带钥匙。所以我想着正好可以用矩形键阵用于输入密码，AS608指纹模块用于识别指纹。
       于是，一个全新的宿舍指纹锁就诞生了。
