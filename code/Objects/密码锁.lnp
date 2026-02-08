@@ -1,0 +1,13 @@
+".\Objects\main.obj",
+".\Objects\LCD1602.obj",
+".\Objects\Buzzer.obj",
+".\Objects\MatrixKey.obj",
+".\Objects\Delay.obj",
+".\Objects\Key.obj",
+".\Objects\Uart.obj",
+".\Objects\AS608.obj",
+".\Objects\duoji.obj",
+".\Objects\Timer0.obj" 
+TO ".\Objects\ÃÜÂëËø" 
+PRINT(".\Listings\ÃÜÂëËø.m51") RAMSIZE(256) 
+DISABLEWARNING (16) 
