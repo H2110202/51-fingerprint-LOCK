@@ -7,6 +7,8 @@
 于是，一个全新的宿舍指纹锁就诞生了。
 
 <img width="450" height="409" alt="image" src="https://github.com/user-attachments/assets/7113806a-1211-4623-b184-804b0d156549" />
+
+
 完整的制作视频链接：https://www.bilibili.com/video/BV1QgcFzzELj/?spm_id_from=333.1387.homepage.video_card.click&vd_source=b4cdd47b683307d8feb75ea4bcbbe2d3
 
 
